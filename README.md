@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pushpak Pallob</h1>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
-<!--
-**Pushpak-3002/Pushpak-3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="code" width="300" src="https://media.tenor.co/images/a46af63a7f5ec53c82734705132bc319/tenor.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak-3002&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak-3002" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Opti-Shovel](https://github.com/opti-shovel/Opti-Shovel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React Js , Next Js , MERN**
+
+- 📫 How to reach me **pushpakpallobstudy@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pushpak pallob" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="pushpak pallob" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="20" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" width="30" height="30"/>
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=c" width="30" height="30"/>
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=java" width="30" height="30"/>
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30"/>
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=express" width="30" height="30"/>
+    <img width="20" />
+    <img src="https://skillicons.dev/icons?i=postman" width="30" height="30"/>
+  </a>
+</p>
+</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-3002&" alt="pushpak-3002" /></p>

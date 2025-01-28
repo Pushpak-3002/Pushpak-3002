@@ -49,4 +49,5 @@
   </a>
 </p>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-3002&" alt="pushpak-3002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpak-3002&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="pushpak-3002" />
+<img align="right" src="https://streak-stats.demolab.com?user=Pushpak-3002&theme=dark&hide_border=true" alt="pushpak-3002" /></p>
